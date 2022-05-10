@@ -1,4 +1,4 @@
-#Videojuego Didactico para niños
+# Videojuego Didactico para niños
 Videojuego didactico desarrollado en C++ utilizando POO. Fue creado con el fin de ayudar a niños de primaria a desarrollar habilidades de matematicas de manera didactica
 
 ##Sinopsis
