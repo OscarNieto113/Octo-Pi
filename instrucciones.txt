@@ -1,0 +1,5 @@
+---------------------------------------------------
+Instrucciones:
+Tu personaje inicia con habilidades basicas, conforme vayas avanzando en la historia podras mejorar tus habilidades mediante experiencia, dichas habilidades te proporcionaran mayor daño al momento de responer las preguntas de tu contrincante. 
+Tu personaje inicia con una pocion de vida, con ella podras regenerar un poco de tu vida actual. Ganaras Mora y experiencia conforme vayas enfrentando a los bosses de cada piso
+---------------------------------------------------
